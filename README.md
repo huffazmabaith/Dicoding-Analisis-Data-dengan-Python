@@ -1,2 +1,13 @@
 # Dicoding-Analisis-Data-dengan-Python
-Repository untuk mengerjakan tugas Dicoding: Analisis Data dengan Python berupa:
+## Setup virtual env --> ubuntu
+conda create --name new_env
+
+## Activate virtual env
+conda activate new_env
+
+## Run Streamlit
+streamlit run dashboard.py
+
+## Streamlit community cloud
+https://rental-bike.streamlit.app/
+
